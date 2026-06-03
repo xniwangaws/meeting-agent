@@ -1,0 +1,27 @@
+# 每次会议的产物 — 含会议原文，不能上公网
+sessions/
+
+# 参与者列表 — 含真实姓名 + 内部背景，本地保留
+participants.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local config
+.env
+*.local

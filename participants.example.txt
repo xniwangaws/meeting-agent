@@ -1,0 +1,9 @@
+# 复制此文件为 participants.txt 后填实际参与者(本地文件,gitignored)。
+# 整个文件内容会被塞进翻译时的 system prompt,让模型在翻译里加 [说话人] 前缀。
+# 保持简短:5-10 行,每行一个人 + ta 通常聊什么。
+
+- **Alice**: 技术 lead,关心架构、schema 设计、API contract
+- **Bob**: backend 工程师,谈数据流、scaling、MQ
+- **Carol**: PM,关心 timeline、scope、milestone
+- **Dave**: frontend 工程师,谈 UI、entitlement、UX
+- **我**: 我从 APAC 时区 join,关心 agent / RAG / 知识图谱
